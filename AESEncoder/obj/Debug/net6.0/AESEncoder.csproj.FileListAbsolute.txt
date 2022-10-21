@@ -1,0 +1,15 @@
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\bin\Debug\net6.0\AESEncoder.exe
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\bin\Debug\net6.0\AESEncoder.deps.json
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\bin\Debug\net6.0\AESEncoder.runtimeconfig.json
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\bin\Debug\net6.0\AESEncoder.dll
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\bin\Debug\net6.0\AESEncoder.pdb
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.csproj.AssemblyReference.cache
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.AssemblyInfoInputs.cache
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.AssemblyInfo.cs
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.csproj.CoreCompileInputs.cache
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.dll
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\refint\AESEncoder.dll
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.pdb
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\AESEncoder.genruntimeconfig.cache
+C:\Users\jim.liu\Desktop\jimCode2022v2\2.sideproject\Encoder\AESEncoder\AESEncoder\obj\Debug\net6.0\ref\AESEncoder.dll
